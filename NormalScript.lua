@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-game:GetService("HttpService"):PostAsync("https://raw.githubusercontent.com/DevPolarhub/Polarhub/master/NormalScript")
-=======
 --[[
 	Polarhub
 ]]--
